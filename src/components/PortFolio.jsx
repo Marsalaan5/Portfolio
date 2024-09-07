@@ -15,7 +15,7 @@ function PortFolio() {
       name: "Blog Website",
       description:"Dive into a world of ideas, creativity, and inspiration. Whether you're here to learn something new, explore fresh perspectives,you've come to the right place.",
 
-      link:<a href="https://marsalaan5.github.io/BlogWeb/" target="_blank">Link</a>
+      link:<a href="https://blog-7dirvctfs-mohammad-rashids-projects.vercel.app "target="_blank">Link</a>
     },
     {
       id: 2,
